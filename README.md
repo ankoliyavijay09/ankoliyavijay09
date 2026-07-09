@@ -106,7 +106,7 @@ I'm a passionate Full Stack Developer with a strong focus on AI automation, Shop
 
 ## 📈 GitHub Stats
 
-> Replace `YOUR_GITHUB_USERNAME` with your username.
+> Replace `ankoliyavijay09` with your username.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankoliyavijay09\&show_icons=true\&theme=github_dark\&hide_border=true)
 
