@@ -104,17 +104,6 @@ I'm a passionate Full Stack Developer with a strong focus on AI automation, Shop
 
 ---
 
-## 📈 GitHub Stats
-
-> Replace `ankoliyavijay09` with your username.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankoliyavijay09\&show_icons=true\&theme=github_dark\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankoliyavijay09\&layout=compact\&theme=github_dark\&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ankoliyavijay09\&theme=github-dark\&hide_border=true)
-
----
 
 ## 🤝 Connect with Me
 
